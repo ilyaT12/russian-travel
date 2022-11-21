@@ -1,0 +1,18 @@
+.land-link__text {
+  color: #FFF;
+  margin-left: 10px;
+  border-bottom: 2px solid #FFF;
+  text-decoration: none;
+}
+
+.land-link__text:hover {
+  opacity: 0.8;
+}
+
+@media all and (max-width: 762px) {
+  .land-link__text {
+      font-size: 18px;
+      line-height: 20px;
+  }
+
+}

@@ -1,0 +1,22 @@
+
+
+.header {
+  background-color: #2A2C2F;
+  padding: 28px 48px 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+
+@media all and (max-width: 894px) {
+  .header {
+    padding: 28px 24px 0;
+  }
+}
+
+@media all and (max-width: 762px) {
+  .header {
+    padding: 16px 16px 0;
+  }
+}
+

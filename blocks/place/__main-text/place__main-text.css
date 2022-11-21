@@ -1,0 +1,13 @@
+.place__main-text {
+  grid-area: place_main-text;
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+@media all and (max-width: 762px) {
+  .place__main-text {
+    padding: 0 16px;
+    gap: 25px;
+  }
+}

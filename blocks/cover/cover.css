@@ -1,0 +1,38 @@
+.cover {
+  margin: 92px auto 0;
+  max-width: 1184px;
+  max-height: 740px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+
+.cover:hover .cover__overlay_img {
+  background-color: #2A2C2F;
+  opacity: 0.2;
+}
+.cover:hover .cover__overlay_link {
+  background-color: #2A2C2F;
+  opacity: 0;
+}
+
+
+@media screen and (max-width: 1024px) {
+  .cover:hover .cover__overlay_img {
+    background-color: #2A2C2F;
+    opacity: 0.2;
+  }
+}
+
+@media all and (max-width: 894px) {
+  .cover {
+    margin: 90px auto 0;
+  }
+}
+
+@media all and (max-width: 762px) {
+  .cover {
+    margin: 66px auto 0;
+  }
+}

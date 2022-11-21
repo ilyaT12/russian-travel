@@ -1,0 +1,15 @@
+
+
+.logo {
+  background-image: url(../../images/logo/logo.png);
+  width: 176px;
+  height: 52px;
+}
+
+@media all and (max-width: 762px) {
+  .logo {
+    background-image: url(../../images/logo/logo_320.png);
+    width: 142px;
+    height: 42px;
+  }
+}
