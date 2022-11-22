@@ -1,18 +1,18 @@
 .intro {
   margin: 0 auto;
   max-width: 984px;
-  padding: 112px 48px 0;
+  padding: 92px 48px 0;
 }
 
 @media all and (max-width: 894px) {
   .intro {
     max-width: 720px;
-    padding: 110px 24px 0;
+    padding: 88px 24px 0;
   }
 }
 
 @media all and (max-width: 762px) {
   .intro {
-    padding: 86px 16px 0;
+    padding: 64px 16px 0;
   }
 }

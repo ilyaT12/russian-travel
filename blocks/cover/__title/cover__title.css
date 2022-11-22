@@ -5,6 +5,14 @@
   font-size: 72px;
   line-height: 76px;
   text-align: center;
+  color: #fff;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__title {
+    z-index: 1;
+  }
 }
 
 @media all and (max-width: 762px) {

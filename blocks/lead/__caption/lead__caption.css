@@ -4,13 +4,9 @@
   letter-spacing: 1.5px;
   text-transform: uppercase;
   margin: 0;
-  padding: 8px 48px 0;
-  position: absolute;
-  left: 0;
-  bottom: -22px;
+  padding-top: 8px;
+  align-self: flex-start;
 }
-
-@media screen and (max-width: 1024px) {}
 
 @media all and (max-width: 894px) {
   .lead__caption {
