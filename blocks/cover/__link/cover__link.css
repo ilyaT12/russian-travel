@@ -5,6 +5,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  gap: 32px;
 }
 
 .cover__link::before {
@@ -15,7 +16,8 @@
   height: 100%;
   display: flex;
   position: absolute;
-  z-index: 0;
+  top: 0;
+  left: 0;
 }
 
 .cover__link:hover::before {

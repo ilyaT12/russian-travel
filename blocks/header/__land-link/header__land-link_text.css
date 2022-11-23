@@ -1,16 +1,16 @@
-.land-link__text {
+.header__land-link_text {
   color: #FFF;
-  margin-left: 10px;
   border-bottom: 2px solid #FFF;
   text-decoration: none;
+  margin-bottom: 5px;
 }
 
-.land-link__text:hover {
+.header__land-link_text:hover {
   opacity: 0.8;
 }
 
 @media all and (max-width: 762px) {
-  .land-link__text {
+  .header__land-link_text {
       font-size: 18px;
       line-height: 20px;
   }

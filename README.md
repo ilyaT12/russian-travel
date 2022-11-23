@@ -3,11 +3,13 @@
 \
 \
 **Интро**
+\
 [Проект о путешествии по России](https://ilyat12.github.io/russian-travel/).
 Однастроничный сайт. Только на русском языке, только frontend - часть.
 Сайт адаптирован и оптимизирован под все разрешения экранов от 320px до бесконечности. Максимальная ширина сайта 1280px.
 
 **Технологии**
+
 - [BEM ](https://en.bem.info/methodology/)
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)

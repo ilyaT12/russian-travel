@@ -5,6 +5,7 @@
   letter-spacing: 2px;
   color: #aaaaaa;
   list-style-type: none;
+  text-transform: uppercase;
 }
 
 @media all and (max-width: 894px) {
